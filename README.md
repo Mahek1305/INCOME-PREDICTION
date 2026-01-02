@@ -79,6 +79,9 @@ All categorical features are **one-hot encoded** and automatically aligned with 
 
   * Confidence score for both classes
 
+![image alt](https://github.com/Mahek1305/INCOME-PREDICTION/blob/main/Screenshot%202026-01-02%20135051.png)
+![image alt](https://github.com/Mahek1305/INCOME-PREDICTION/blob/main/Screenshot%202026-01-02%20135102.png)
+
 ---
 
 ## ▶️ How to Run the Project
@@ -144,5 +147,6 @@ This ensures **no mismatch** between training and inference features.
 **Mahek**
 AI & Data Science Student
 Focused on **Machine Learning, Data Science & Product-Based ML Projects**
+
 
 
