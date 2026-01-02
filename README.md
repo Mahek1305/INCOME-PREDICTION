@@ -1,9 +1,3 @@
-Below is a clean, **project-ready README.md** for your Streamlit application, written like a **major ML project**. You can directly copy-paste this into your GitHub repository.
-
-I’ve based it strictly on your uploaded app code .
-
----
-
 # 💰 Income Prediction Web App (Streamlit + Machine Learning)
 
 A **Machine Learning–powered Streamlit web application** that predicts whether a person earns **more than $50K or ≤ $50K per year** based on demographic, education, and work-related features.
@@ -150,4 +144,5 @@ This ensures **no mismatch** between training and inference features.
 **Mahek**
 AI & Data Science Student
 Focused on **Machine Learning, Data Science & Product-Based ML Projects**
+
 
